@@ -1,0 +1,25 @@
+.box{
+
+    width: 500px;
+    height: 200px;
+    padding: 40px;
+    border: 20px solid rgb(23, 226, 233);
+    margin: 20px auto;
+    background-color: rgb(190, 83, 214);
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.box1{
+
+    width: 500px;
+    height: 200px;
+    padding: 40px;
+    border: 20px solid rgb(180, 241, 28);
+    margin: 20px auto;
+    background-color: rgb(31, 26, 182);
+    text-align: center;
+    font-weight: bold;
+
+}
